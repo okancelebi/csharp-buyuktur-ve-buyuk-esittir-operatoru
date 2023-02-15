@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\büyük ve büyük eşit operatörü\büyük ve büyük eşit operatörü\bin\Debug\büyük ve büyük eşit operatörü.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\büyük ve büyük eşit operatörü\büyük ve büyük eşit operatörü\bin\Debug\büyük ve büyük eşit operatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\büyük ve büyük eşit operatörü\büyük ve büyük eşit operatörü\bin\Debug\büyük ve büyük eşit operatörü.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\büyük ve büyük eşit operatörü\büyük ve büyük eşit operatörü\obj\Debug\büyük ve büyük eşit operatörü.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\büyük ve büyük eşit operatörü\büyük ve büyük eşit operatörü\obj\Debug\büyük ve büyük eşit operatörü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\büyük ve büyük eşit operatörü\büyük ve büyük eşit operatörü\obj\Debug\büyük ve büyük eşit operatörü.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\büyük ve büyük eşit operatörü\büyük ve büyük eşit operatörü\obj\Debug\büyük ve büyük eşit operatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\büyük ve büyük eşit operatörü\büyük ve büyük eşit operatörü\obj\Debug\büyük ve büyük eşit operatörü.pdb
